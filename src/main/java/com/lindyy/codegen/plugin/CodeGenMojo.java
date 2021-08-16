@@ -1,4 +1,4 @@
-package com.dt26.codegen.plugin;
+package com.lindyy.codegen.plugin;
 
 import com.google.common.base.Charsets;
 import com.google.common.hash.Hashing;
